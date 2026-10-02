@@ -14,6 +14,7 @@
  * of the licence, or (at your option) any later version.
  */
 #define _GNU_SOURCE
+#pragma GCC diagnostic ignored "-Wdeprecated-declarations"
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
